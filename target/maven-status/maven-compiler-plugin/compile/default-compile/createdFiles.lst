@@ -1,0 +1,8 @@
+com\oscar\demoMongo\ProductController.class
+com\oscar\demoMongo\ProductDTO.class
+com\oscar\demoMongo\ProductService.class
+com\oscar\demoMongo\ProductRepository.class
+com\oscar\demoMongo\Product.class
+com\oscar\demoMongo\AppConfig.class
+com\oscar\demoMongo\ProductServiceImpl.class
+com\oscar\demoMongo\DemoMongoApplication.class
